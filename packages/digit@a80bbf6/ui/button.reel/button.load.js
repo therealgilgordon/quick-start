@@ -1,0 +1,1 @@
+montageDefine("a80bbf6","ui/button.reel/button",{dependencies:["montage/ui/base/abstract-button"],factory:function(t,e){var n=t("montage/ui/base/abstract-button").AbstractButton;e.Button=n.specialize({hasTemplate:{value:!0},constructor:{value:function(){this.super(),this.classList.add("digit-Button")}}})}});
